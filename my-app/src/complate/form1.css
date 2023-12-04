@@ -1,0 +1,173 @@
+
+.sarlavha {
+    margin: 0% auto;
+    margin-top: 20px;
+    width: 1100px;
+    padding: 37px 0px;
+    border-radius: 18px;
+    background: #FFF;
+    box-shadow: 0px 12px 24px 0px rgba(20, 20, 43, 0.04), 0px -2px 4px 0px rgba(20, 20, 43, 0.02), 0px 3px 14px 0px rgba(74, 58, 255, 0.03);
+}
+
+.sarlavha h2 {
+    text-align: center;
+    color: #170F49;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: DM Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    /* 145.833% */
+}
+
+.text {
+    margin-top: 110px;
+}
+
+.text h1 {
+    color: #170F49;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 46px;
+    /* 135.294% */
+}
+
+.text p {
+    color: #6F6C90;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    /* 166.667% */
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 25px 64px;
+    margin: 0 auto;
+    width: 700px;
+    height: 808px;
+    flex-shrink: 0;
+    border-radius: 34px;
+    border: 1px solid #EFF0F6;
+    background: #FAF8F8;
+    box-shadow: 0px 5px 16px 0px rgba(8, 15, 52, 0.06);
+}
+
+.form_text h2 {
+    color: #170F49;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    /* 145.833% */
+}
+
+.form_text p {
+    color: #6F6C90;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    /* 166.667% */
+}
+
+.chiziq {
+    width: 596.259px;
+    height: 1px;
+    background: #D9DBE9;
+}
+
+.form__input form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.form__input form label {
+    color: #170F49;
+    font-feature-settings: 'clig' off, 'liga' off;
+
+    /* Other/18-20 M */
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    /* 111.111% */
+}
+
+.form__input form input {
+    font-size: 18px;
+    padding: 0 2px;
+    width: 284px;
+    height: 66px;
+    flex-shrink: 0;
+    border-radius: 46px;
+    border: 1px solid #EFF0F6;
+    background: #FFF;
+
+    /* Input/Default */
+    box-shadow: 0px 2px 6px 0px rgba(19, 18, 66, 0.07);
+}
+
+.form__input form input::placeholder {
+    padding-left: 20px;
+    color: #6F6C90;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    /* 111.111% */
+}
+.span{
+    color: red;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.button {
+
+    width: 200px;
+    margin: 0 auto;
+}
+
+.button button {
+    cursor: pointer;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: none;
+    display: inline-flex;
+    padding: 20px 40px 21px 40px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 56px;
+    background: linear-gradient(180deg, #9E96F2 0%, #EC31F0 100%);
+    box-shadow: 0px 3px 12px 0px rgba(74, 58, 255, 0.18);
+    color: #FFF;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    /* 83.333% */
+}
+.done{
+    width: 300px;
+    margin: 0 auto;
+    color: green;
+    font-size: 35px;
+    font-weight: 700;
+}
